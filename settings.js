@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.vcardowner = ['923206629195'] //ur owner number
+global.ownername = "💀千 卂 Ҡ 乇   卄 凵 爪 卂 几 💀" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub: bfarazali11" //ur github or insta name
+global.location = "Pakistan , sindh , larkana" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.owner = ['923206629195']
+global.ownertag = '923206629195' //ur tag number
+global.botname = '💀千 卂 Ҡ 乇   卄 凵 爪 卂 几 💀' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "💀千 卂 Ҡ 乇   卄 凵 爪 卂 几 💀" //ur sticker watermark packname
+global.author = "💀千 卂 Ҡ 乇   卄 凵 爪 卂 几 💀" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,44 +79,44 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
-global.ntilinkytvid = []
-global.ntilinkytch = []
-global.ntilinkig = []
-global.ntilinkfb = []
-global.ntilinktg = []
-global.ntilinktt = []
-global.ntilinktwt = []
-global.ntilinkall = []
-global.nticall = []
-global.ntwame = []
-global.nttoxic = []
-global.ntnsfw = []
-global.ntvirtex = []
-global.rkyt = []
-global.wlcm = []
-global.gcrevoke = []
+global.premium = ['92320669195'] //ur premium numbers
+global.ntilinkytvid = [true]
+global.ntilinkytch = [true]
+global.ntilinkig = [true]
+global.ntilinkfb = [true]
+global.ntilinktg = [true]
+global.ntilinktt = [true]
+global.ntilinktwt = [true]
+global.ntilinkall = [true]
+global.nticall = [true]
+global.ntwame = [true]
+global.nttoxic = [true]
+global.ntnsfw = [true]
+global.ntvirtex = [true]
+global.rkyt = [true]
+global.wlcm = [true]
+global.gcrevoke = [true]
 global.autorep = []
-global.ntilink = []
+global.ntilink = [true]
 
 //omther
 global.sessionName = 'session'
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = '💀','-'
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
+    admin: 'PEHLE ADMIN BAN PHIR YE FEATURE DAL',
+    botAdmin: 'MUJE ADMIN TO BANA PEHLE',
+    owner: 'BACHE YE OWNER KELIYE HAI COMMAND',
+    group: 'GROUP MAI KAM KAREGA YE ',
+    private: 'LARKI TO HAI  NHI JAKE LARKE KE PM MAI YE COMMAND DAL WAHI KA HAI GROUP KA NHI',
+    bot: 'BOT KA HAI YE FEATURE',
+    wait: 'HOMRAHA HAI.......',
+    linkm: 'ABE LINK KAHAN HAI ESE AJATE HAI ',
+    error: 'BOLA THA NA ERROR AYEGA',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    ban: 'ALELELELELE BECHARA BAN HAI UNBAN KELIYE JAKE OWNER SE BHEEG MANG',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
